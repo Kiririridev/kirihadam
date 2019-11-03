@@ -9,5 +9,4 @@ public class KirihadamKafkaStreamsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KirihadamKafkaStreamsApplication.class, args);
 	}
-
 }
